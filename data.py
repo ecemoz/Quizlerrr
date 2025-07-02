@@ -1,5 +1,4 @@
 import requests
-from unicodedata import category
 
 parameters = {
     "amount" : 10,
